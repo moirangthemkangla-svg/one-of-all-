@@ -1245,7 +1245,8 @@ body {
     font-size: 140px;
   }
   .camera {
-    height: 70vh;
+    height: 540px;
+    overflow: hidden;
   }
   .camera img {
     left: 35%;
@@ -1412,7 +1413,7 @@ body {
     position: relative;
   }
   .step {
-    min-height: 100vh;
+    min-height: 70vh;
   }
   .step h1 {
     text-align: center;
