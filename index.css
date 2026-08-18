@@ -1245,7 +1245,7 @@ body {
     font-size: 140px;
   }
   .camera {
-    height: 540px;
+    height: 70vh;
     overflow: hidden;
   }
   .camera img {
@@ -1565,6 +1565,7 @@ body {
     bottom: 240px;
   }
   .kangla {
+    height: 75vh;
     background-color: #f6f6f3;
     width: 100%;
   }
