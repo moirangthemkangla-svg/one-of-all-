@@ -1245,7 +1245,7 @@ body {
     font-size: 140px;
   }
   .camera {
-    height: 55vh;
+    height: 400px;
     overflow: hidden;
   }
   .camera img {
