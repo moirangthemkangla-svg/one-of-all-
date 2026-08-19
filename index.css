@@ -1161,7 +1161,7 @@ body {
   }
   .heading {
     position: absolute;
-    top: 50%;
+    top: 45%;
     letter-spacing: 1;
     left: 20px;
     transform: translateY(-50%);
@@ -1245,7 +1245,7 @@ body {
     font-size: 140px;
   }
   .camera {
-    height: 50vh;
+    height: 53vh;
     overflow: hidden;
   }
   .camera img {
@@ -1294,7 +1294,7 @@ body {
     font-size: 80px;
   }
   .air {
-    height: 80vh;
+    height: 70vh;
   }
   .air img {
     position: relative;
@@ -1326,7 +1326,7 @@ body {
     letter-spacing: 100px;
   }
   .hand {
-    height: 51vh;
+    height: 45vh;
     overflow: hidden;
     position: relative;
   }
