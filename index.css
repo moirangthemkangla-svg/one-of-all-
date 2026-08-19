@@ -1285,8 +1285,11 @@ body {
     font-size: 10px;
   }
   .product {
-    height: 20vh;
+    height: 150px;
     background-size: cover;
+  }
+  .product img {
+    object-fit: cover;
   }
   .product h1 {
     top: 10px;
@@ -1294,7 +1297,7 @@ body {
     font-size: 80px;
   }
   .air {
-    height: 70vh;
+    height: 530px;
   }
   .air img {
     position: relative;
@@ -1565,7 +1568,7 @@ body {
     bottom: 240px;
   }
   .kangla {
-    height: 80vh;
+    height: 690px;
     background-color: #f6f6f3;
     width: 100%;
   }
@@ -1591,7 +1594,7 @@ body {
     background-color: #f6f6f3;
     position: relative;
     display: block;
-    height: 60vh;
+    height: 400px;
   }
   .paper img {
     position: relative;
